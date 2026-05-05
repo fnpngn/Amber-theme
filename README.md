@@ -29,11 +29,11 @@ Read the [installation instructions](#installation-instructions)
 ## No theme effect
 1. Make sure the theme has been installed and is ON under Settings -> Extensions
 2. If no color is applied: you are using a default or custom profile, NOT the theme provided profile  
-If you want to use this (or any) theme on a custom profile you need to manually select it:
+If you want to use this (or any) theme on a custom profile you need to manually select it:  
 `Settings -> Profiles -> Defaults (or your current profile) -> Appearance -> Color Scheme` select FNV-Amber
 
 ## No CRT filter / cursor / 
-3. If no CRT filter / cursor / too many ripples in the background
+3. If no CRT filter / cursor / too many ripples in the background  
 You are not using the full theme profile.  
 The **CRT filter** as well as **correct background settings** and **cursor** are part of the `PROFILE` settings
 If you are trying to use `Default` or a `Custom` profile you can either copy the `"profiles"` section from the theme directly into your `settings.json`
