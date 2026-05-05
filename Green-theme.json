@@ -2,9 +2,9 @@
 	"profiles": 
     [
         {
-			"name": "FNV-Amber",
-            "colorScheme": "FNV-Amber",
-            "cursorColor": "#FFB642",
+			"name": "FNV-Green",
+            "colorScheme": "FNV-Green",
+			"cursorColor": "#1AFF80",
             "cursorShape": "filledBox",
             "experimental.retroTerminalEffect": true,
             "icon": "\ue75b",
@@ -19,8 +19,8 @@
 	"schemes": 
 	[
 		{
-			"background": "#1B1507",
-			"black": "#1B1507",
+			"background": "#011b0e",
+			"black": "#011b0e",
 			"blue": "#0037DA",
 			"brightBlack": "#767676",
 			"brightBlue": "#3B78FF",
@@ -30,11 +30,11 @@
 			"brightRed": "#E74856",
 			"brightWhite": "#F2F2F2",
 			"brightYellow": "#F9F1A5",
-			"cursorColor": "#FFB642",
+			"cursorColor": "#1AFF80",
 			"cyan": "#3A96DD",
-			"foreground": "#FFB642",
+			"foreground": "#1AFF80",
 			"green": "#13A10E",
-			"name": "FNV-Amber",
+			"name": "FNV-Green",
 			"purple": "#881798",
 			"red": "#C50F1F",
 			"selectionBackground": "#FFFFFF",
