@@ -9,11 +9,11 @@ Read the [installation instructions](#installation-instructions)
 (License forbids uploading the font file)  
 
 ### Auto
-- Download
+- Download `git clone https://github.com/fnpngn/falloutnv-win-term.git`
 - Open terminal inside folder
-- `./install.ps1
-- Close all open terminal windows (restart terminal)
-- `Settings -> Profiles -> FNV-Amber -> Appearance -> Font Face` select `monofonto`(if installed) or `Unispace`
+- `./install.ps1`
+- Close **all** open terminal windows (restart terminal)
+- `Settings -> Profiles -> FNV-Amber -> Appearance -> Font Face` select `monofonto`(if installed)
 
 ### Manual
 - Copy `Amber-theme.json` 
