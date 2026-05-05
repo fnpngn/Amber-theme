@@ -47,7 +47,8 @@ Or follow the instructions:
 `Settings -> Profiles -> Defaults -> Cursor color` `#FFB642`(FNV) / `#1AFF80` (FO3) (part of theme but could get overriden by Defaults) 
 
 # Uninstallation
-Just delete `%localappdata%\Microsoft\Windows Terminal\Fragments\{installed theme}`
+Just delete `%localappdata%\Microsoft\Windows Terminal\Fragments\{installed theme}`  
+Or toggle off in `Settings -> Extensions` and update profiles that use it
 
 ![screenshot of this theme](./screenshots/screenshot-info.png)
 ![screenshot of this theme](./screenshots/screenshot-green.png)
